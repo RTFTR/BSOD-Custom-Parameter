@@ -1,0 +1,17 @@
+﻿  bsod.cpp
+C:\Users\USER\source\repos\bsod\bsod\RaiseHardError.h(1,9): warning C4068: unknown pragma 'clang'
+  (compiling source file 'bsod.cpp')
+  
+C:\Users\USER\source\repos\bsod\bsod\RaiseHardError.h(2,9): warning C4068: unknown pragma 'ide'
+  (compiling source file 'bsod.cpp')
+  
+C:\Users\USER\source\repos\bsod\bsod\RaiseHardError.h(61,9): warning C4068: unknown pragma 'clang'
+  (compiling source file 'bsod.cpp')
+  
+C:\Users\USER\source\repos\bsod\bsod\bsod.cpp(30,41): warning C4244: 'argument': conversion from 'ULONG_PTR' to 'NTSTATUS', possible loss of data
+  Generating code
+  1 of 1 functions (100.0%) were compiled.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  bsod.vcxproj -> C:\Users\USER\source\repos\bsod\x64\Release\bsod.exe
