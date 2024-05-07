@@ -1,5 +1,9 @@
 #include "RaiseHardError.h"
 
+//TODO : Make a command-line argument so that the users (Nt 5.0 - 6.1) can display the text you want.
+//TODO : Make a command-line argument so that you can cause the bsod code that you want.
+//TODO : Successful modification of the rest of 32-bit values
+
 int main() {
     HWND hWnd = GetConsoleWindow();
     ShowWindow(hWnd, SW_HIDE); //It prevents the cmd window from appearing for a reason. who could've thought showing it was a good idea?
