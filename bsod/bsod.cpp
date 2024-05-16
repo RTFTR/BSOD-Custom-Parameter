@@ -1,6 +1,6 @@
 #include "RaiseHardError.h"
 
-//TODO : Make a command-line argument to display the intended text on BSOD
+//TODO : Make a command-line argument to display the intended text on BSOD(THIS FUCKING THING PREVENTS ME FROM PUTTING A SPACE IN THE TEXT?????)
 //TODO : Make a command-line argument to cause the custom error code
 
 //TODO...? : Successful modification of the rest of 32-bit values
